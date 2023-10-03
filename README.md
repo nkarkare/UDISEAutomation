@@ -10,7 +10,7 @@ The Automation will match the student name and enter the relevant data into data
 Installation and running:
 - Install UiPath Studio Community Edition
 - Download the files in this repo
-- Configure path for the source CSV
+- Configure path for the source CSV in Data/Config.xlsx
 - Put in login credentials
 - Open the project.json file in UiPath Studio
 - Publish the automation
